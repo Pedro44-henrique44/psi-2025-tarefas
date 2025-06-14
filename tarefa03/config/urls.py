@@ -19,6 +19,7 @@ from django.urls import path, include
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', include('exemplo.urls'))
+    path('', include('meuapp.urls'))
 ]
+
 #o include é para a pasta do aplicativo!!!! o include é para a pasta do aplicativo!!!!
