@@ -22,4 +22,4 @@ urlpatterns = [
     path('', include('meuapp.urls'))
 ]
 
-#o include é para a pasta do aplicativo!!!! o include é para a pasta do aplicativo!!!!
+#o include é para a pasta do aplicativo de URLS!!!! o include é para a pasta do aplicativo de URLS!!!!

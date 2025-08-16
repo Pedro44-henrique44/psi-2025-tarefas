@@ -10,6 +10,7 @@ def usuarios(request):
         {"nome": "Chico", "idade": "21", "cidade": "Natal", "matricula": "20201181110023"},
         {"nome": "Dede", "idade": "27", "cidade": "Natal", "matricula": "20161181110031"},
         {"nome": "Xuao", "idade": "56", "cidade": "Natal", "matricula": "19991181110001"},
+        
     ]
 
     context = {
